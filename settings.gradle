@@ -1,0 +1,2 @@
+include ':app', ':feature01'
+rootProject.name='DynamicFeatureTutorial'

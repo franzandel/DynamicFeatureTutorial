@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DynamicFeatureTutorial</string>
+    <string name="title_feature01">CoolFeatures</string>
+</resources>
